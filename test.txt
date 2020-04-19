@@ -2,4 +2,5 @@ aaaa
 bbb
 cc
 d
-Git Merge縺ｮ縺雁級蠑ｷ
+featureブランチで変更しました。
+
