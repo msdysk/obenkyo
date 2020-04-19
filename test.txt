@@ -5,3 +5,4 @@ d
 featureブランチで変更しました。
 masterで変更
 git pull requestでし
+github flowの実践
