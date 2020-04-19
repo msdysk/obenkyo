@@ -1,2 +1,3 @@
 VSCodeでgitの練習
 my_workブランチで新規作成、よろしく！
+aaa
