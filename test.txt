@@ -2,3 +2,4 @@ aaaa
 bbb
 cc
 d
+Git Mergeのお勉強
